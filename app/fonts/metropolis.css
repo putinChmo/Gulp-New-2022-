@@ -1,0 +1,108 @@
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Thin'), local('../../fonts/Metropolis-Thin'), url('../../fonts/Metropolisthin.woff2') format('woff2'), url('../../fonts/Metropolisthin.woff') format('woff'), url('../../fonts/Metropolisthin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Thin Italic'), local('../../fonts/Metropolis-ThinItalic'), url('../../fonts/Metropolisthinitalic.woff2') format('woff2'), url('../../fonts/Metropolisthinitalic.woff') format('woff'), url('../../fonts/Metropolisthinitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Extra Light'), local('../../fonts/Metropolis-ExtraLight'), url('../../fonts/Metropolisextralight.woff2') format('woff2'), url('../../fonts/Metropolisextralight.woff') format('woff'), url('../../fonts/Metropolisextralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Extra Light Italic'), local('../../fonts/Metropolis-ExtraLightItalic'), url('../../fonts/Metropolisextralightitalic.woff2') format('woff2'), url('../../fonts/Metropolisextralightitalic.woff') format('woff'), url('../../fonts/Metropolisextralightitalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Light'), local('../../fonts/Metropolis-Light'), url('../../fonts/Metropolislight.woff2') format('woff2'), url('../../fonts/Metropolislight.woff') format('woff'), url('../../fonts/Metropolislight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Light Italic'), local('../../fonts/Metropolis-LightItalic'), url('../../fonts/Metropolislightitalic.woff2') format('woff2'), url('../../fonts/Metropolislightitalic.woff') format('woff'), url('../../fonts/Metropolislightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis'), local('../../fonts/Metropolis-Regular'), url('../../fonts/Metropolis.woff2') format('woff2'), url('../../fonts/Metropolis.woff') format('woff'), url('../../fonts/Metropolis.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Regular Italic'), local('../../fonts/Metropolis-RegularItalic'), url('../../fonts/Metropolisregularitalic.woff2') format('woff2'), url('../../fonts/Metropolisregularitalic.woff') format('woff'), url('../../fonts/Metropolisregularitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Medium'), local('../../fonts/Metropolis-Medium'), url('../../fonts/Metropolismedium.woff2') format('woff2'), url('../../fonts/Metropolismedium.woff') format('woff'), url('../../fonts/Metropolismedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Medium Italic'), local('../../fonts/Metropolis-MediumItalic'), url('../../fonts/Metropolismediumitalic.woff2') format('woff2'), url('../../fonts/Metropolismediumitalic.woff') format('woff'), url('../../fonts/Metropolismediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Semi Bold'), local('../../fonts/Metropolis-SemiBold'), url('../../fonts/Metropolissemibold.woff2') format('woff2'), url('../../fonts/Metropolissemibold.woff') format('woff'), url('../../fonts/Metropolissemibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Semi Bold Italic'), local('../../fonts/Metropolis-SemiBoldItalic'), url('../../fonts/Metropolissemibolditalic.woff2') format('woff2'), url('../../fonts/Metropolissemibolditalic.woff') format('woff'), url('../../fonts/Metropolissemibolditalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Bold'), local('../../fonts/Metropolis-Bold'), url('../../fonts/Metropolisbold.woff2') format('woff2'), url('../../fonts/Metropolisbold.woff') format('woff'), url('../../fonts/Metropolisbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Bold Italic'), local('../../fonts/Metropolis-BoldItalic'), url('../../fonts/Metropolisbolditalic.woff2') format('woff2'), url('../../fonts/Metropolisbolditalic.woff') format('woff'), url('../../fonts/Metropolisbolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Extra Bold'), local('../../fonts/Metropolis-ExtraBold'), url('../../fonts/Metropolisextrabold.woff2') format('woff2'), url('../../fonts/Metropolisextrabold.woff') format('woff'), url('../../fonts/Metropolisextrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Extra Bold Italic'), local('../../fonts/Metropolis-ExtraBoldItalic'), url('../../fonts/Metropolisextrabolditalic.woff2') format('woff2'), url('../../fonts/Metropolisextrabolditalic.woff') format('woff'), url('../../fonts/Metropolisextrabolditalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Black'), local('../../fonts/Metropolis-Black'), url('../../fonts/Metropolisblack.woff2') format('woff2'), url('../../fonts/Metropolisblack.woff') format('woff'), url('../../fonts/Metropolisblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: '../../fonts/Metropolis';
+    src: local('../../fonts/Metropolis Black Italic'), local('../../fonts/Metropolis-BlackItalic'), url('../../fonts/Metropolisblackitalic.woff2') format('woff2'), url('../../fonts/Metropolisblackitalic.woff') format('woff'), url('../../fonts/Metropolisblackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
